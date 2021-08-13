@@ -1,2 +1,2 @@
 # blocker
-A simple blocked randomization script
+A simple blocked randomization script. Requires python 3, numpy.
